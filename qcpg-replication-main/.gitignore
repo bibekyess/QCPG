@@ -1,0 +1,12 @@
+/output/*
+.../*
+QCPG/__pycache__/*
+data/mscoco/*.lock
+data/parabk2/*.lock
+data/wikians/*.lock
+metrics/bleurt/*.lock
+metrics/cross_metric/*.lock
+metrics/syntdiv_metric/*.lock
+runs/*
+../.vscode/
+../old/
